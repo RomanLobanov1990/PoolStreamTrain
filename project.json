@@ -1,14 +1,14 @@
 {
   "name": "PoolStream",
-  "about": "проект PoolStream v3",
-  "version": "3.4",
-  "notes": "Добавлено: 1. возможность задовать имя тренировкам 2. световая индикация начала, смены этапа и завершения тренировки",
+  "about": "проект PoolStream v4",
+  "version": "4.1",
+  "notes": "Тестирование обновления на версии 4.0",
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/RomanLobanov1990/PoolStream/main/firmware.bin",
+          "path": "https://raw.githubusercontent.com/RomanLobanov1990/PoolStreamTrain/main/firmware.bin",
           "offset": 0
         }
       ]
